@@ -1,0 +1,5 @@
+.btn-outlined {
+  @apply bg-transparent border rounded-md px-4 text-base py-2 hover:bg-gray-100 transition duration-200 ease-in-out;
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}

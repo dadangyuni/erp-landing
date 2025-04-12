@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "./variables.css";
+@import "./custom.css";
+@import "./animation.css";
+
+* {
+  @apply font-[lato];
+}

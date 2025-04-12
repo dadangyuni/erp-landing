@@ -1,0 +1,29 @@
+<svg width="593" height="449" viewBox="0 0 593 449" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="bottom-right-ill" clip-path="url(#clip0_13_8)">
+<g id="shape">
+<path id="polygon" d="M115.5 257.5C204.5 234 202.133 245.611 251.5 235.5C293 227 288.389 183.699 343 158C411 126 448.5 153 479 136C509.5 119 514.5 45.5 592 37C592 87.5 592 449 592 449L9.00001 449C9.00001 449 -8 290.11 115.5 257.5Z" fill="url(#paint0_linear_13_8)"/>
+<circle id="ellipse-big" cx="196.5" cy="184.5" r="33.5" fill="url(#paint1_linear_13_8)"/>
+<circle id="ellipse-small" cx="382.5" cy="95.5" r="19.5" fill="url(#paint2_linear_13_8)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_13_8" x1="8.20779" y1="243" x2="592" y2="243" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1F78FF"/>
+<stop offset="0.5" stop-color="#60A5FF"/>
+<stop offset="1" stop-color="#EAB6FF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_13_8" x1="163" y1="184.5" x2="230" y2="184.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1F78FF"/>
+<stop offset="0.682692" stop-color="#60A5FF"/>
+<stop offset="1" stop-color="#7EADFF"/>
+</linearGradient>
+<linearGradient id="paint2_linear_13_8" x1="363" y1="95.5" x2="402" y2="95.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#328EFF"/>
+<stop offset="0.158654" stop-color="#608DFF"/>
+<stop offset="1" stop-color="#DCB6FF"/>
+</linearGradient>
+<clipPath id="clip0_13_8">
+<rect width="593" height="449" fill="white"/>
+</clipPath>
+</defs>
+</svg>
