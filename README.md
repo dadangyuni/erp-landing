@@ -1,7 +1,5 @@
 # ERP Landing Page
 
-![ERP Landing Page Preview](public/images/preview.jpg)
-
 A modern, responsive landing page for ERP software built with React.js, Tailwind CSS, and Tabler Icons.
 
 ## Technologies Used
@@ -35,4 +33,4 @@ A modern, responsive landing page for ERP software built with React.js, Tailwind
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/erp-landing-page.git
+git clone https://github.com/dadangyuni/erp-landing.git
