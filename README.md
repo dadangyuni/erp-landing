@@ -3,6 +3,9 @@
 A modern, responsive landing page for ERP software built with React.js, Tailwind CSS, and Tabler Icons.
 
 ## Technologies Used
+Demo: [demo](https://erp-miracle.netlify.app)
+
+## Technologies Used
 
 | Technology | Purpose | Version |
 |------------|---------|---------|
