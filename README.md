@@ -1,54 +1,38 @@
-# React + TypeScript + Vite
+# ERP Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![ERP Landing Page Preview](public/images/preview.jpg)
 
-Currently, two official plugins are available:
+A modern, responsive landing page for ERP software built with React.js, Tailwind CSS, and Tabler Icons.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
 
-## Expanding the ESLint configuration
+| Technology | Purpose | Version |
+|------------|---------|---------|
+| React.js | UI Components | 18+ |
+| React Router | Navigation | 6+ |
+| Tailwind CSS | Styling | 3+ |
+| Tabler Icons | Icons | 2.0+ |
+| Vite | Build Tool | 4+ |
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Why These Technologies?
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+### React.js
+- Component-based architecture for reusable UI
+- Virtual DOM for efficient updates
+- Large ecosystem and community support
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### Tailwind CSS
+- Utility-first approach for rapid development
+- Mobile-first responsive design
+- Customizable design system
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### Tabler Icons
+- Professional, consistent icon set
+- MIT licensed (free to use)
+- Easy to implement with React
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/erp-landing-page.git
